@@ -1,4 +1,4 @@
 # curso-git
 
 
-# Salvando modificações no Git
+# Salvando alterações no Git
